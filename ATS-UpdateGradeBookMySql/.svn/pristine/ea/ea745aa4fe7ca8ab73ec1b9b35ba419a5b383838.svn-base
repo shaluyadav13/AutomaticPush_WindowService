@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ats_prod" Class="AttendanceTrackingDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CITE1;Initial Catalog=ats_prod;Integrated Security=True" SettingsObjectName="AttendaceTrackingService.Properties.Settings" SettingsPropertyName="ats_prodConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.attendances" Member="attendances">
+    <Type Name="attendance">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="student_id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="call_number" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="code" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="created_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="updated_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.enrollments" Member="enrollments">
+    <Type Name="enrollment">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="student_id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="call_number" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="created_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="updated_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sections" Member="sections">
+    <Type Name="section">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="call_number" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="course_name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="inst_id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="room" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="days" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="start" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="[end]" Member="end" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="created_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="updated_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.students" Member="students">
+    <Type Name="student">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="student_id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="s_number" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="created_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="updated_at" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

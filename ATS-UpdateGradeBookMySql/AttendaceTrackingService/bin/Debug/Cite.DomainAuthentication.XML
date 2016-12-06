@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cite.DomainAuthentication</name>
+    </assembly>
+    <members>
+        <member name="T:Cite.DomainAuthentication.DomainAccount">
+            <summary>
+            This class represents a domain user account within the Northwest Missouri State University
+            domain.
+            </summary>
+        </member>
+        <member name="M:Cite.DomainAuthentication.DomainAccount.#ctor(System.String,System.String)">
+            <summary>
+            Performs an ActiveDirectory lookup for an account with the provided
+            username and password. If either parameter is incorrect, authentication
+            will fail.
+            </summary>
+            <param name="username">The username of the account to look up.</param>
+            <param name="password">The password for the account to look up.</param>
+        </member>
+        <member name="M:Cite.DomainAuthentication.DomainAccount.#ctor(System.String,System.String,System.Int32)">
+            <summary>
+            Performs an ActiveDirectory lookup for an account with the provided
+            username and password. If either parameter is incorrect, authentication
+            will fail and the executing thread will pause for the number
+            of milliseconds specified by timeout, with the intention of slowing brute
+            force attacks.
+            </summary>
+            <param name="username">The username of the account to look up.</param>
+            <param name="password">The password for the account to look up.</param>
+            <param name="timeout">The number of milliseconds to block for if authentication fails.</param>
+        </member>
+        <member name="M:Cite.DomainAuthentication.DomainAccount.#ctor(System.String)">
+            <summary>
+            Performs an ActiveDirectory lookup for an account with the provided
+            username. This will not perform authentication.
+            </summary>
+            <param name="username">The username of the account to look up.</param>
+        </member>
+        <member name="M:Cite.DomainAuthentication.DomainAccount.initialize">
+            <summary>
+            Initializes instance variables to default values.
+            </summary>
+        </member>
+        <member name="M:Cite.DomainAuthentication.DomainAccount.performLookup">
+            <summary>
+            Goes out to ActiveDirectory and looks for this account.
+            </summary>
+        </member>
+        <member name="M:Cite.DomainAuthentication.DomainAccount.authenticateAccount(System.String,System.String)">
+            <summary>
+            Goes out to ActiveDirectory and determines if the provided username
+            and password are correct.
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.Username">
+            <summary>
+            Gets the username for this account.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.IsAuthenticated">
+            <summary>
+            Gets a value indicating whether this account's username and password
+            have been authenticated.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.LastName">
+            <summary>
+            Gets the user's last name.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.FirstName">
+            <summary>
+            Gets the user's first name.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.OU">
+            <summary>
+            Gets the user's Organizational Unit.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.Email">
+            <summary>
+            Gets the user's Northwest email address.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.Groups">
+            <summary>
+            Gets a collection of Strings indicating what groups the user is a member of.
+            </summary>
+        </member>
+        <member name="P:Cite.DomainAuthentication.DomainAccount.Exists">
+            <summary>
+            Gets a value indicating whether this account was found within ActiveDirectory.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,921 @@
+﻿Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service PraveenService1...
+Service PraveenService1 has been successfully installed.
+Creating EventLog source PraveenService1 in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source PraveenService1.
+Service PraveenService1 is being removed from the system...
+Service PraveenService1 was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service PraveenService1...
+Service PraveenService1 has been successfully installed.
+Creating EventLog source PraveenService1 in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source PraveenService1.
+Service PraveenService1 is being removed from the system...
+Service PraveenService1 was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service PraveenService1...
+Service PraveenService1 has been successfully installed.
+Creating EventLog source PraveenService1 in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source PraveenService1.
+Service PraveenService1 is being removed from the system...
+Service PraveenService1 was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service PraveenService1...
+Service PraveenService1 has been successfully installed.
+Creating EventLog source PraveenService1 in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source PraveenService1.
+Service PraveenService1 is being removed from the system...
+Service PraveenService1 was successfully removed from the system.
+Attempt to stop service PraveenService1.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service PraveenService1...
+Service PraveenService1 has been successfully installed.
+Creating EventLog source PraveenService1 in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source PraveenService1.
+Service PraveenService1 is being removed from the system...
+Service PraveenService1 was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Creating EventLog source ATS in log Application...
+Rolling back assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Restoring event log to previous state for source ATS.
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Warning: The source ATS is not registered on the local machine.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Creating EventLog source ATS in log Application...
+Rolling back assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Restoring event log to previous state for source ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Attempt to stop service ATS.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATS...
+Service ATS has been successfully installed.
+Creating EventLog source ATS in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Warning: The source ATSManagement is not registered on the local machine.
+Service ATSManagement is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATS.
+Service ATS is being removed from the system...
+Service ATS was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Attempt to stop service ATSManagement.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s519463\Downloads\AttendaceTrackingService\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Uninstalling assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Removing EventLog source ATSManagement.
+Service ATSManagement is being removed from the system...
+Service ATSManagement was successfully removed from the system.
+Installing assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe
+Installing service ATSManagement...
+Service ATSManagement has been successfully installed.
+Creating EventLog source ATSManagement in log Application...
+Committing assembly 'C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.InstallLog
+   assemblypath = C:\Users\s521787\Desktop\ATS-UpdateGradeBookMySql\AttendaceTrackingService\bin\Debug\AttendaceTrackingService.exe

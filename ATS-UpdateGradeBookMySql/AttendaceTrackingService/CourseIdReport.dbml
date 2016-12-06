@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Attendance" Class="CourseIdReportDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CITE1;Initial Catalog=Attendance;Integrated Security=True" SettingsObjectName="AttendaceTrackingService.Properties.Settings" SettingsPropertyName="AttendanceConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CourseIdReports" Member="CourseIdReports">
+    <Type Name="CourseIdReport">
+      <Column Name="callNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="courseId" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
